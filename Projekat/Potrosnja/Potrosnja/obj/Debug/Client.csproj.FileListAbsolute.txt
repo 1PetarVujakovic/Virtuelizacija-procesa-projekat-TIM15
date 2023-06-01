@@ -1,0 +1,77 @@
+D:\Downloads\Potrosnja (2)\Potrosnja\Potrosnja\bin\Debug\Potrosnja.exe.config
+D:\Downloads\Potrosnja (2)\Potrosnja\Potrosnja\bin\Debug\Potrosnja.exe
+D:\Downloads\Potrosnja (2)\Potrosnja\Potrosnja\bin\Debug\Potrosnja.pdb
+D:\Downloads\Potrosnja (2)\Potrosnja\Potrosnja\bin\Debug\Common.dll
+D:\Downloads\Potrosnja (2)\Potrosnja\Potrosnja\bin\Debug\Common.pdb
+D:\Downloads\Potrosnja (2)\Potrosnja\Potrosnja\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\Downloads\Potrosnja (2)\Potrosnja\Potrosnja\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+D:\Downloads\Potrosnja (2)\Potrosnja\Potrosnja\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\Downloads\Potrosnja (2)\Potrosnja\Potrosnja\obj\Debug\Client.csproj.CopyComplete
+D:\Downloads\Potrosnja (2)\Potrosnja\Potrosnja\obj\Debug\Potrosnja.exe
+D:\Downloads\Potrosnja (2)\Potrosnja\Potrosnja\obj\Debug\Potrosnja.pdb
+C:\Users\Pera\Desktop\Potrosnja (2)\Potrosnja\Potrosnja\bin\Debug\Potrosnja.exe.config
+C:\Users\Pera\Desktop\Potrosnja (2)\Potrosnja\Potrosnja\bin\Debug\Potrosnja.exe
+C:\Users\Pera\Desktop\Potrosnja (2)\Potrosnja\Potrosnja\bin\Debug\Potrosnja.pdb
+C:\Users\Pera\Desktop\Potrosnja (2)\Potrosnja\Potrosnja\bin\Debug\Common.dll
+C:\Users\Pera\Desktop\Potrosnja (2)\Potrosnja\Potrosnja\bin\Debug\Common.pdb
+C:\Users\Pera\Desktop\Potrosnja (2)\Potrosnja\Potrosnja\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Pera\Desktop\Potrosnja (2)\Potrosnja\Potrosnja\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pera\Desktop\Potrosnja (2)\Potrosnja\Potrosnja\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Pera\Desktop\Potrosnja (2)\Potrosnja\Potrosnja\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Pera\Desktop\Potrosnja (2)\Potrosnja\Potrosnja\obj\Debug\Potrosnja.exe
+C:\Users\Pera\Desktop\Potrosnja (2)\Potrosnja\Potrosnja\obj\Debug\Potrosnja.pdb
+D:\Downloads\Potrosnja (3)\Potrosnja\Potrosnja\bin\Debug\Potrosnja.exe.config
+D:\Downloads\Potrosnja (3)\Potrosnja\Potrosnja\bin\Debug\Potrosnja.exe
+D:\Downloads\Potrosnja (3)\Potrosnja\Potrosnja\bin\Debug\Potrosnja.pdb
+D:\Downloads\Potrosnja (3)\Potrosnja\Potrosnja\bin\Debug\Common.dll
+D:\Downloads\Potrosnja (3)\Potrosnja\Potrosnja\bin\Debug\Common.pdb
+D:\Downloads\Potrosnja (3)\Potrosnja\Potrosnja\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\Downloads\Potrosnja (3)\Potrosnja\Potrosnja\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+D:\Downloads\Potrosnja (3)\Potrosnja\Potrosnja\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\Downloads\Potrosnja (3)\Potrosnja\Potrosnja\obj\Debug\Client.csproj.CopyComplete
+D:\Downloads\Potrosnja (3)\Potrosnja\Potrosnja\obj\Debug\Potrosnja.exe
+D:\Downloads\Potrosnja (3)\Potrosnja\Potrosnja\obj\Debug\Potrosnja.pdb
+C:\Users\Pera\Desktop\Potrosnja (3)\Potrosnja\Potrosnja\bin\Debug\Potrosnja.exe.config
+C:\Users\Pera\Desktop\Potrosnja (3)\Potrosnja\Potrosnja\bin\Debug\Potrosnja.exe
+C:\Users\Pera\Desktop\Potrosnja (3)\Potrosnja\Potrosnja\bin\Debug\Potrosnja.pdb
+C:\Users\Pera\Desktop\Potrosnja (3)\Potrosnja\Potrosnja\bin\Debug\Common.dll
+C:\Users\Pera\Desktop\Potrosnja (3)\Potrosnja\Potrosnja\bin\Debug\Common.pdb
+C:\Users\Pera\Desktop\Potrosnja (3)\Potrosnja\Potrosnja\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Pera\Desktop\Potrosnja (3)\Potrosnja\Potrosnja\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pera\Desktop\Potrosnja (3)\Potrosnja\Potrosnja\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Pera\Desktop\Potrosnja (3)\Potrosnja\Potrosnja\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Pera\Desktop\Potrosnja (3)\Potrosnja\Potrosnja\obj\Debug\Potrosnja.exe
+C:\Users\Pera\Desktop\Potrosnja (3)\Potrosnja\Potrosnja\obj\Debug\Potrosnja.pdb
+D:\Downloads\Potrosnja_3\Potrosnja (3)\Potrosnja\Potrosnja\bin\Debug\Potrosnja.exe.config
+D:\Downloads\Potrosnja_3\Potrosnja (3)\Potrosnja\Potrosnja\bin\Debug\Potrosnja.exe
+D:\Downloads\Potrosnja_3\Potrosnja (3)\Potrosnja\Potrosnja\bin\Debug\Potrosnja.pdb
+D:\Downloads\Potrosnja_3\Potrosnja (3)\Potrosnja\Potrosnja\bin\Debug\Common.dll
+D:\Downloads\Potrosnja_3\Potrosnja (3)\Potrosnja\Potrosnja\bin\Debug\Common.pdb
+D:\Downloads\Potrosnja_3\Potrosnja (3)\Potrosnja\Potrosnja\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\Downloads\Potrosnja_3\Potrosnja (3)\Potrosnja\Potrosnja\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+D:\Downloads\Potrosnja_3\Potrosnja (3)\Potrosnja\Potrosnja\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\Downloads\Potrosnja_3\Potrosnja (3)\Potrosnja\Potrosnja\obj\Debug\Client.csproj.CopyComplete
+D:\Downloads\Potrosnja_3\Potrosnja (3)\Potrosnja\Potrosnja\obj\Debug\Potrosnja.exe
+D:\Downloads\Potrosnja_3\Potrosnja (3)\Potrosnja\Potrosnja\obj\Debug\Potrosnja.pdb
+C:\Users\Pera\Desktop\Potrosnja_3\Potrosnja (3)\Potrosnja\Potrosnja\bin\Debug\Potrosnja.exe.config
+C:\Users\Pera\Desktop\Potrosnja_3\Potrosnja (3)\Potrosnja\Potrosnja\bin\Debug\Potrosnja.exe
+C:\Users\Pera\Desktop\Potrosnja_3\Potrosnja (3)\Potrosnja\Potrosnja\bin\Debug\Potrosnja.pdb
+C:\Users\Pera\Desktop\Potrosnja_3\Potrosnja (3)\Potrosnja\Potrosnja\bin\Debug\Common.dll
+C:\Users\Pera\Desktop\Potrosnja_3\Potrosnja (3)\Potrosnja\Potrosnja\bin\Debug\Common.pdb
+C:\Users\Pera\Desktop\Potrosnja_3\Potrosnja (3)\Potrosnja\Potrosnja\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Pera\Desktop\Potrosnja_3\Potrosnja (3)\Potrosnja\Potrosnja\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pera\Desktop\Potrosnja_3\Potrosnja (3)\Potrosnja\Potrosnja\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Pera\Desktop\Potrosnja_3\Potrosnja (3)\Potrosnja\Potrosnja\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Pera\Desktop\Potrosnja_3\Potrosnja (3)\Potrosnja\Potrosnja\obj\Debug\Potrosnja.exe
+C:\Users\Pera\Desktop\Potrosnja_3\Potrosnja (3)\Potrosnja\Potrosnja\obj\Debug\Potrosnja.pdb
+C:\Users\Pera\Desktop\Najnovija verzija i verovatno i zavrsna al videcemo dispose dal cemo raditi jer nemamo pojma\Potrosnja_3\Potrosnja (3)\Potrosnja\Potrosnja\bin\Debug\Potrosnja.exe.config
+C:\Users\Pera\Desktop\Najnovija verzija i verovatno i zavrsna al videcemo dispose dal cemo raditi jer nemamo pojma\Potrosnja_3\Potrosnja (3)\Potrosnja\Potrosnja\bin\Debug\Potrosnja.exe
+C:\Users\Pera\Desktop\Najnovija verzija i verovatno i zavrsna al videcemo dispose dal cemo raditi jer nemamo pojma\Potrosnja_3\Potrosnja (3)\Potrosnja\Potrosnja\bin\Debug\Potrosnja.pdb
+C:\Users\Pera\Desktop\Najnovija verzija i verovatno i zavrsna al videcemo dispose dal cemo raditi jer nemamo pojma\Potrosnja_3\Potrosnja (3)\Potrosnja\Potrosnja\bin\Debug\Common.dll
+C:\Users\Pera\Desktop\Najnovija verzija i verovatno i zavrsna al videcemo dispose dal cemo raditi jer nemamo pojma\Potrosnja_3\Potrosnja (3)\Potrosnja\Potrosnja\bin\Debug\Common.pdb
+C:\Users\Pera\Desktop\Najnovija verzija i verovatno i zavrsna al videcemo dispose dal cemo raditi jer nemamo pojma\Potrosnja_3\Potrosnja (3)\Potrosnja\Potrosnja\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Pera\Desktop\Najnovija verzija i verovatno i zavrsna al videcemo dispose dal cemo raditi jer nemamo pojma\Potrosnja_3\Potrosnja (3)\Potrosnja\Potrosnja\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pera\Desktop\Najnovija verzija i verovatno i zavrsna al videcemo dispose dal cemo raditi jer nemamo pojma\Potrosnja_3\Potrosnja (3)\Potrosnja\Potrosnja\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Pera\Desktop\Najnovija verzija i verovatno i zavrsna al videcemo dispose dal cemo raditi jer nemamo pojma\Potrosnja_3\Potrosnja (3)\Potrosnja\Potrosnja\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Pera\Desktop\Najnovija verzija i verovatno i zavrsna al videcemo dispose dal cemo raditi jer nemamo pojma\Potrosnja_3\Potrosnja (3)\Potrosnja\Potrosnja\obj\Debug\Potrosnja.exe
+C:\Users\Pera\Desktop\Najnovija verzija i verovatno i zavrsna al videcemo dispose dal cemo raditi jer nemamo pojma\Potrosnja_3\Potrosnja (3)\Potrosnja\Potrosnja\obj\Debug\Potrosnja.pdb
